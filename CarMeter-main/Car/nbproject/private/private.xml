@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/buttons/MultiGauge.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/Communication/SerialCommunication.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/buttons/initialize.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/Communication/WifiCommunication.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/buttons/HandleButton.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/buttons/LightDark.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/buttons/Draw.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/Main/main.java</file>
+            <file>file:/D:/ITI_Course/Project/CarMeter/Car/src/Communication/Carmeter.java</file>
+        </group>
+    </open-files>
+</project-private>

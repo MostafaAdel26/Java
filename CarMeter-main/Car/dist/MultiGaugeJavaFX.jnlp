@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MultiGaugeJavaFX.jnlp">
+  <information>
+    <title>MultiGaugeJavaFX</title>
+    <vendor>Y879</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MultiGaugeJavaFX.jar" size="575418" download="eager" />
+    <jar href="lib\GMapsFX-8.0.0.jar" size="3893601" download="eager" />
+    <jar href="lib\Medusa-8.0.jar" size="1463851" download="eager" />
+    <jar href="lib\RXTXcomm.jar" size="59464" download="eager" />
+    <jar href="lib\marineapi-0.10.0.jar" size="193504" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="Main.main"  name="MultiGaugeJavaFX" />
+  <update check="always"/>
+</jnlp>
